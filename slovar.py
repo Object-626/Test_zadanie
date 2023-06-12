@@ -28,4 +28,5 @@ dir_list = [
     r'C:\Users\попытка №6\Desktop\A',
     r'C:\Users\попытка №6\Desktop\B'
 ]
+#Внесите в список dir_list пути к папкам содержащим файлы формата .js
 print(search_file_js(dir_list, 3))
